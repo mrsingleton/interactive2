@@ -1,3 +1,5 @@
+## Refer to this doc when writing responsive web page styles
+
 ```css
 /*
 =======================================
